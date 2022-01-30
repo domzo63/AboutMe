@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @DomagojFL
-- 👀 I’m interested in web development and UI/UX design.
+- 👋 Hi, I’m @DomagojFrontend
+- 👀 I’m interested in front-end web development and UI/UX design.
 - 💞️ I’m looking to collaborate on various kind of projects in which i can use my skills.
 - 📫 How to reach me:
                   -Gmail:
