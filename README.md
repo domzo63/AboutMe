@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DomagojFrontend
+- 👋 Hi, I’m @DomagojFrontend                                                                                       <a href="https://app.daily.dev/DomagojDev"><img src="https://api.daily.dev/devcards/0b93de525e104ceab024599ddfff63f4.png?r=opy" width="400" alt="Domagoj Vrkić's Dev Card"/></a>
 - 👀 I’m interested in front-end web development and UI/UX design.
 - 🤝 I’m looking to collaborate on various kind of projects in which i can use my skills.
 - 📫 How to reach me:
